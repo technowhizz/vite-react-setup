@@ -2,6 +2,6 @@ import React from "react"
 
 export default function Nav(){
     return(
-        <nav>NavBar</nav>
+        <nav className="nav">NavBar</nav>
     )
 }
